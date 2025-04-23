@@ -1,0 +1,7 @@
+echo "# AUREA_LIMA_2426056_AB" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/praticasUnifor/AUREA_LIMA_2426056_AB.git
+ git push -u origin main
